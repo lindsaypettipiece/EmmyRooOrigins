@@ -2,12 +2,9 @@
 
    body{
      margin: 8px;
+     display: block;
    }
-   p{
-      font-family: cursive;
-      color: #FBF37C;
-      text-align: center;
-   }
+  
    .funParagraph{
       color:green;
    }
