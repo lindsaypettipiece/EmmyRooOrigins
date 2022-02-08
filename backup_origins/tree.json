@@ -1,0 +1,105 @@
+{
+    "name": "Emily Ann Barnes",
+    "born": 2021,
+    "died": "",
+    "location":"",
+    "parents": [
+      {
+        "name": "Lindsay Waters",
+        "born": 1831,
+        "died": 1884,
+        "location":"",
+        "parents": [
+          {
+            "name": "Guy Waters",
+            "born": 1945,
+            "died": "",
+            "location": "",
+            "parents":[
+                {
+                    "name": "Guy Waters Sr.",
+                    "born": 1906,
+                    "died": 1984,
+                    "location": ""
+                    
+                  },
+                  {
+                    "name": "Margaret Waters",
+                    "born": 1915,
+                    "died": 2001,
+                    "location": ""
+                  }
+            ]
+          },
+          {
+            "name": "Kathleen Waters",
+            "born": 1951,
+            "died": "",
+            "location": "",
+            "parents":[
+                {
+                    "name": "Herman Metcalf",
+                    "born": 1929,
+                    "died": 2014,
+                    "location": ""
+                  },
+                  {
+                    "name": "Mary Metcalf",
+                    "born": 1932,
+                    "died": 2021,
+                    "location": ""
+                  }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Austin Barnes",
+        "born": 1826,
+        "died": 1866,
+        "location": "",
+        "parents": [
+          {
+            "name": "Barry Barnes",
+            "born": 1950,
+            "died": "",
+            "location": "",
+            "parents":[
+                {
+                    "name": "Lloyd Barnes",
+                    "born": 1925,
+                    "died": 2000,
+                    "location": ""
+                  },
+                  {
+                    "name": "Great Grandma Barnes",
+                    "born": 1930,
+                    "died": 2000,
+                    "location": ""
+                  }
+            ]
+          },
+          {
+            "name": "Kathy Irving",
+            "born": 1957,
+            "died": "",
+            "location": "",
+            "parents":[
+                {
+                    "name": "Great Grandpa Irving",
+                    "born": 1930,
+                    "died": 2000,
+                    "location": ""
+                  },
+                  {
+                    "name": "Great Grandma Irving",
+                    "born": 1935,
+                    "died": "",
+                    "location": ""
+                  }
+            ]
+          }
+        ]
+      }
+    ]
+  }
